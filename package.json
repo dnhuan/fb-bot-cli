@@ -1,0 +1,17 @@
+{
+  "name": "fbbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fbbot.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.0",
+    "prompt": "^1.0.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
